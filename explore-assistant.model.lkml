@@ -1,6 +1,6 @@
 connection: "vertex_bigquery_looker_connection"
 
-include: "/genai_tmp1/views/*.view"
+#include: "genai_tmp1/explore-assistant/*.view"
 
 #: "/views/*.view.lkml"                # include all views in the views/ folder in this project
 # include: "/**/*.view.lkml"                 # include all views in this project
